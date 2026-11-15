@@ -9,9 +9,9 @@
 ---
 ## 1. Project Overview
 
-This project explores a multi-country restaurant dataset using Python and data analysis techniques to identify patterns in restaurant cuisines, pricing, ratings, service availability, and geographical distribution.
+This project presents an exploratory data analysis of a multi-country restaurant dataset using Python. It examines restaurant cuisines, city-wise distribution, pricing, customer ratings, online delivery services, geographic patterns, and restaurant chains.
 
-The project covers two levels of the Cognifyz Data Analysis Internship, implemented in two separate Jupyter Notebooks.
+The analysis is organized into two levels, covering eight tasks across two Jupyter Notebooks. Each task uses data cleaning, exploratory analysis, statistical summaries, and visualizations to identify patterns and derive meaningful business insights.
 
 **Level 1 – Core Restaurant Analysis**
 - Top Cuisines
@@ -190,7 +190,7 @@ Cleaning was kept conservative, transparent, and reproducible:
 Cognifyz-Data-Analysis/
 │
 ├── data/
-│   └── Dataset_real.csv       # Original dataset (9,551 rows)
+│   └── README.md     # Instructions for obtaining the dataset
 │
 ├── Level_1/
 │   └── Cognifyz_Level_1_Data_Analysis.ipynb
@@ -214,11 +214,11 @@ Cognifyz-Data-Analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Cognifyz-Data-Analysis.git
-cd Cognifyz-Data-Analysis
-```
 
-Replace `your-username` with your actual GitHub username after publishing the repository.
+git clone https://github.com/anshumanray111-oss/Cognifyz-Data-Analysis.git
+cd Cognifyz-Data-Analysis
+
+```
 
 ### 2. Set up a virtual environment
 
